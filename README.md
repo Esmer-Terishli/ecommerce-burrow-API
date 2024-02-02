@@ -3,10 +3,10 @@
 <h1>Installation and Usage</h1>
 <ol>
   <li>Clone the repository to your local machine:
-    <p>git clone https://github.com/Esmer-Terishli/ecommerce-burrow-client.git</p>
+    <p>git clone https://github.com/Esmer-Terishli/ecommerce-burrow-API.git</p>
   </li>
     <li>Navigate to the project directory:
-    <p>cd ecommerce-burrow-client</p>
+    <p>cd ecommerce-burrow-API</p>
   </li>
   <li>Install dependencies:
     <p>npm install</p>
